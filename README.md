@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [SIPENS](https://sipens.com/)
 
-🌱 I’m currently learning **Express JS**
+🌱 I’m currently learning **JS Framework**
 
 💬 Ask me about **Laravel and Codeigniter**
 
