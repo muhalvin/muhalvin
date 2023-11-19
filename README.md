@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhalvin&label=Profile%20views&color=0e75b6&style=flat" alt="muhalvin" /> </p>
 
-🔭 I’m currently working on [SIPENS](https://sipens.com/)
-
-🌱 I’m currently learning **JS Framework**
+🌱 I’m currently learning **React**
 
 💬 Ask me about **Laravel and Codeigniter**
 
