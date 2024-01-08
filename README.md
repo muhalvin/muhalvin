@@ -17,6 +17,3 @@
 [![badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17484876)
 [![badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadalvinch)
 [![badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhalvin)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhalvin&show_icons=true&locale=en" alt="muhalvin" /></p>
-
