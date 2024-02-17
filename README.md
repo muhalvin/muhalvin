@@ -8,7 +8,7 @@
 
 📫 How to reach me **work.muhalvin@gmail.com**
 
-⚡ Fun fact **I like to sleep**
+⚡ **Code, Music and Sleep**
 
 <h3 align="left">Connect with me:</h3>
 
