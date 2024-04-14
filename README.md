@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhalvin&label=Profile%20views&color=0e75b6&style=flat" alt="muhalvin" /> </p>
 
-🌱 I’m currently learning **Laravel**
-
-💬 Ask me about **Anythings**
-
 📫 How to reach me **work.muhalvin@gmail.com**
 
 ⚡ **Code, Music and Sleep**
