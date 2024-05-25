@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **VILT.**
 
-- 💬 Ask me about **PHP Native, Laravel or Codeigniter.**
+- 💬 Ask me about **Laravel.**
 
 - 📫 How to reach me **work.muhalvin@gmail.com**
 
