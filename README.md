@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alvin</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning about **vilt stack.**
+- 🌱 I’m currently learning about **VILT.**
 
-- 💬 Ask me about **php, laravel and vue.**
+- 💬 Ask me about **PHP Native, Laravel or Codeigniter.**
 
 - 📫 How to reach me **work.muhalvin@gmail.com**
 
