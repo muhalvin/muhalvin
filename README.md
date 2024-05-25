@@ -12,7 +12,7 @@
 <details>
   <summary>📊 GitHub Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhalvin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhalvin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhalvin&theme=dracula&hide_border=false" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhalvin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </details>
