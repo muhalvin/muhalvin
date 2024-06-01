@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 #### 💫 About Me:
-🌱 I’m currently learning about VILT.<br><br>
+🌱 I’m currently learning MERN stack.<br><br>
 💬 Ask me about Laravel.<br><br>
 📫 How to reach me work.muhalvin@gmail.com
 
