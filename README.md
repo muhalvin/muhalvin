@@ -1,5 +1,3 @@
+<samp>
 
-
-<a href="https://muhalvin.github.io" target="_blank">Website</a>  •  
-<a href="mailto:muhalvin@gmail.com" target="_blank">Email</a>  •  
-<a href="https://discord.com/users/familyguy.io" target="_blank">Discord</a>
+<a href="https://muhalvin.github.io">Website</a>  •  <a href="mailto:muhalvin@gmail.com">Email</a>  •  <a href="https://discord.com/users/familyguy.io">Discord</a>
