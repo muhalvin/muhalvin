@@ -27,7 +27,7 @@ jobs:
 
       - name: Update note.md with timestamp
         run: |
-          echo "Last updated: $(TZ=Asia/Jakarta date)" > note.md
+          echo "Last updated: $(TZ=Asia/Jakarta date) with Github Action" > note.md
           
           git config --global user.email "muhammadalvin888@gmail.com"
           git config --global user.name "Muhammad Alvin"
