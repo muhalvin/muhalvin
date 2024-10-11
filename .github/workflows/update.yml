@@ -10,7 +10,6 @@ on:
   schedule:
     # Update node.md every day at 0 UTC (7 WIB) and 12 UTC (19 WIB)
     - cron: '0 0 */2 * *'  # Every day at 0 UTC
-    - cron: '0 12 */2 * *' # Every day at 12 UTC
 
 # Allow this job to clone the repo and create a page deployment
 permissions:
